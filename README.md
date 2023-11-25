@@ -32,9 +32,7 @@
 
 <br clear="both">
 
-##test test 
 
-![snake gif](https://github.com/Cleroy288/Cleroy288/blob/output/github-contribution-grid-snake.svg)
 
 
 

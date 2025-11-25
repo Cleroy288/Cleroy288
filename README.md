@@ -34,7 +34,7 @@ I am fluent in French, Dutch and English, and I am especially interested in **fi
 ## Key Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,postgres,redis,docker,git,linux,c,cpp,python,ts" />
+  <img src="https://skillicons.dev/icons?i=rust,go,postgres,docker,git,linux,c,cpp,python,ts" />
   <br>
   <img src="https://skillicons.dev/icons?i=aws,cloudflare,kubernetes,nginx,vscode" />
 </p>
